@@ -9,3 +9,22 @@ This project is a custom-designed job application form tailored for the imaginar
 The design reflects the upscale and tranquil brand identity of OceanVista Hotels, with a clean layout and a sophisticated color scheme of teal and golden sand. Users receive a confirmation message upon successful submission, ensuring a seamless application process. This project emphasizes user-friendly design through an intuitive interface and responsive layout.
 
 **Please note:** OceanVista Hotels and the Guest Experience Manager position are fictional, and created solely for this project.
+
+## Table of Contents
+
+1. [Features](#features)
+2. [Technologies Used](#technologies-used)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Screenshots](#screenshots)
+6. [License](#license)
+
+## Features
+
+- **Responsive Design:** The form is fully responsive and adapts to various screen sizes, ensuring a smooth user experience on desktops, tablets, and mobile devices.
+- **Custom Validation:** Includes custom validation for required fields, email formatting, and file upload restrictions.
+- **File Uploads:** Allows users to upload their resume and cover letter in multiple formats (PDF, DOCX).
+- **Dynamic Fields:** Optional fields for LinkedIn profile, desired salary, and years of experience, allowing a more tailored application process.
+- **Confirmation Message:** Displays a confirmation message after successful submission, reassuring users that their application has been received.
+- **Intuitive Interface:** User-friendly layout with clear instructions and well-organized sections.
+
