@@ -28,3 +28,30 @@ The design reflects the upscale and tranquil brand identity of OceanVista Hotels
 - **Confirmation Message:** Displays a confirmation message after successful submission, reassuring users that their application has been received.
 - **Intuitive Interface:** User-friendly layout with clear instructions and well-organized sections.
 
+## Technologies Used
+
+- **HTML5**: For structuring the form and providing semantic meaning to the content.
+- **CSS3**: For styling the form, including custom layout, responsive design, and color schemes that reflect the brand identity of OceanVista Hotels.
+- **JavaScript**: To handle form validation, dynamic field interactions, and displaying the confirmation message.
+- **Google Fonts**: Used to enhance the typography and visual appeal of the form with custom fonts.
+- **IcoMoon**: Icons are sourced from IcoMoon, and organized into a sprite for efficient loading and usage within the form.
+- **ChatGPT**: Utilized for conceptualizing the project, selecting styles, and refining the color scheme.
+
+## Installation
+
+To view or modify this project on your local machine, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/oceanvista-job-application-form.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd oceanvista-job-application-form
+
+3. **Open the project:**
+   Open index.html in your preferred web browser to view the form.
+
+No additional dependencies or installations are required as this is a static project.
