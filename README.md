@@ -52,6 +52,7 @@ To view or modify this project on your local machine, follow these steps:
    cd oceanvista-job-application-form
 
 3. **Open the project:**
+   
    Open index.html in your preferred web browser to view the form.
 
 No additional dependencies or installations are required as this is a static project.
